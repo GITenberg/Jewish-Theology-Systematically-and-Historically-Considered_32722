@@ -1,0 +1,27 @@
+_repo: Jewish-Theology-Systematically-and-Historically-Considered_32722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kohler, Kaufmann
+    birthdate: 1843
+    deathdate: 1926
+    gutenberg_agent_id: '36002'
+    url: http://www.gutenberg.org/2009/agents/36002
+description: ''
+gutenberg_issued: '2010-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32722'
+  lccn: '18004145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Judaism -- Doctrines'
+- !lcc 'BM'
+title: Jewish Theology, Systematically and Historically Considered
+url: http://www.gutenberg.org/ebooks/32722
